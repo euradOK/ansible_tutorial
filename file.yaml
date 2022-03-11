@@ -1,0 +1,14 @@
+shopping:
+  - egg: 1
+  - milk: 2
+  - cheese: 2
+  - fruit: 1
+
+purchased:
+  fruit:
+    apple: 1
+    banana: 2
+  needtoBuy:
+    - coffee
+    - tea
+    - milk
